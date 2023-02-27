@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/first-project/static/css/main.53bcab0a.css",
+    "main.js": "/first-project/static/js/main.b17aa907.js",
+    "static/media/siri.png": "/first-project/static/media/siri.e6a70a555204b3a1f6f0.png",
+    "index.html": "/first-project/index.html",
+    "main.53bcab0a.css.map": "/first-project/static/css/main.53bcab0a.css.map",
+    "main.b17aa907.js.map": "/first-project/static/js/main.b17aa907.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53bcab0a.css",
+    "static/js/main.b17aa907.js"
+  ]
+}
